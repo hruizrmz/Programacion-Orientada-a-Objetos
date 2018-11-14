@@ -1,0 +1,18 @@
+172.16.254.1 = IP4 valida
+
+172.16.254.01 = IP4 no valida
+
+111.222.333 = IP4 no valida
+
+256.256.256.256 = IP4 no valida
+
+2001:0db8:85a3:0:0:8A2E:0370:7334 = IP6 valida
+
+3002:1ab8:64c2:02C1:9:12Ed:1010:F04T = IP6 no valida
+
+1111:2222:AbBa = IP6 no valida
+
+2001:0db8:85a3::8A2E:0370:7334 = IP6 no valida
+
+0001:0db8:85a3:0000:0000:8a2e:0370:7334 = IP6 no valida
+
